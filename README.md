@@ -1,0 +1,1 @@
+Just a personnal collection of AHK scripts I've mostly written over a decade. Some may or may not work.
